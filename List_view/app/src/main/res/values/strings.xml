@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">List_view</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>China</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Sri Lanka</item>
+        <item>Pakistan</item>
+        <item>Afghanistan</item>
+        <item>Israel</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>UK</item>
+        <item>Germany</item>
+        <item>Texas</item>
+        <item>Russia</item>
+        <item>England</item>
+        <item>Nigeria</item>
+        <item>Namibia</item>
+        <item>Oman</item>
+    </string-array>
+</resources>
